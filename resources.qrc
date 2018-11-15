@@ -1,0 +1,63 @@
+<RCC>
+    <qresource prefix="/Img">
+        <file>Images/Blue Moon Airport.gif</file>
+        <file>Images/Blue Moon Base.gif</file>
+        <file>Images/Blue Moon City.gif</file>
+        <file>Images/Brown Desert HQ.gif</file>
+        <file>Images/CRiver.gif</file>
+        <file>Images/CRoad.gif</file>
+        <file>Images/EPipe End.gif</file>
+        <file>Images/ESPipe.gif</file>
+        <file>Images/ESRiver.gif</file>
+        <file>Images/ESRoad.gif</file>
+        <file>Images/ESWRiver.gif</file>
+        <file>Images/ESWRoad.gif</file>
+        <file>Images/HBridge.gif</file>
+        <file>Images/HPipe Rubble.gif</file>
+        <file>Images/HPipe Seam.gif</file>
+        <file>Images/HPipe.gif</file>
+        <file>Images/HRiver.gif</file>
+        <file>Images/HRoad.gif</file>
+        <file>Images/HShoal.gif</file>
+        <file>Images/HShoalN.gif</file>
+        <file>Images/Mountain.gif</file>
+        <file>Images/NEPipe.gif</file>
+        <file>Images/NERiver.gif</file>
+        <file>Images/NERoad.gif</file>
+        <file>Images/NESRiver.gif</file>
+        <file>Images/NESRoad.gif</file>
+        <file>Images/Neutral Airport.gif</file>
+        <file>Images/Neutral Base.gif</file>
+        <file>Images/Neutral City.gif</file>
+        <file>Images/Neutral Port.gif</file>
+        <file>Images/NPipe End.gif</file>
+        <file>Images/Orange Star Airport.gif</file>
+        <file>Images/Orange Star Base.gif</file>
+        <file>Images/Orange Star City.gif</file>
+        <file>Images/Orange Star Port.gif</file>
+        <file>Images/Plain.gif</file>
+        <file>Images/Reef.gif</file>
+        <file>Images/Sea.gif</file>
+        <file>Images/SPipe End.gif</file>
+        <file>Images/SWNRiver.gif</file>
+        <file>Images/SWNRoad.gif</file>
+        <file>Images/SWPipe.gif</file>
+        <file>Images/SWRiver.gif</file>
+        <file>Images/SWRoad.gif</file>
+        <file>Images/VBridge.gif</file>
+        <file>Images/VPipe Rubble.gif</file>
+        <file>Images/VPipe Seam.gif</file>
+        <file>Images/VPipe.gif</file>
+        <file>Images/VRiver.gif</file>
+        <file>Images/VRoad.gif</file>
+        <file>Images/VShoal.gif</file>
+        <file>Images/VShoalE.gif</file>
+        <file>Images/WNERiver.gif</file>
+        <file>Images/WNERoad.gif</file>
+        <file>Images/WNPipe.gif</file>
+        <file>Images/WNRiver.gif</file>
+        <file>Images/WNRoad.gif</file>
+        <file>Images/Wood.gif</file>
+        <file>Images/WPipe End.gif</file>
+    </qresource>
+</RCC>
